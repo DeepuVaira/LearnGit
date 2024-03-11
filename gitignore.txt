@@ -1,0 +1,4 @@
+.vs/ 
+/.vs
+reactexampleforgit/.vscode
+reactexampleforgit/node_modules
